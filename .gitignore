@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-conversion_modules/__pycache__/
-*.zip
-*.tar.gz
-*.gz
